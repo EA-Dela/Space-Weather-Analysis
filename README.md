@@ -9,7 +9,7 @@ Tools and Technologies:
 The project utilises a combination of data visualisation and analysis tools:
 
 - Power BI: For intuitive and interactive visualizations.
-- Python Libraries: Including Matplotlib and Seaborn for data visualization, and Pandas for data manipulation and analysis.
+- Python Libraries: Including Matplotlib and Seaborn for data visualisation, and Pandas for data manipulation and analysis.
 
 Summary:
 Through this project, I aim to shed light on the interplay between sunspots and solar flares, offering insights into their patterns and contributing to the broader understanding of space weather dynamics.
